@@ -1,4 +1,4 @@
-package day0220;
+package org.example;
 
 public class Review {
     String reviewMember;
